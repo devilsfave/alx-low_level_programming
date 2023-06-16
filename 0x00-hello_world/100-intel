@@ -1,0 +1,4 @@
+#!/bin/bash
+CFILE=$CFILE
+gcc -S -masm=intel $CFILE
+mv "${CFILE%.c}.s" "${CFILE%.c}.s"
