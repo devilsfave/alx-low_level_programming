@@ -36,6 +36,6 @@
 | 0x1D  | [C - Binary trees](https://github.com/MubarekSD/binary_trees)                     |             |
 | 0x1E  | [C - Search Algorithms](./0x1E-search_algorithms)                                 |             |
 
-## Author
 
-- Mubarek Seid
+
+devilsfave made it
